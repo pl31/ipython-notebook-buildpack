@@ -1,3 +1,9 @@
+----
+
+**This buildpack is not maintained any more. Please use [heroku-jupyter](https://github.com/pl31/heroku-jupyter) instead.**
+
+----
+
 # IPython Notebook Buildpack
 
 The `ipython-notebook-buildpack` is a [Cloud Foundry][] buildpack for exposing [IPython Notebook][] files.
